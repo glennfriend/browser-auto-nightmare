@@ -1,6 +1,6 @@
-### browser-auto-nightmare
+## browser-auto-nightmare
 
-## test
+### test
 ```sh
 xvfb-run node src/google.js
 ```
