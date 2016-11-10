@@ -1,0 +1,6 @@
+{
+  "description": "nightmare + electron",
+  "devDependencies": {
+    "nightmare": "^2.8"
+  }
+}
